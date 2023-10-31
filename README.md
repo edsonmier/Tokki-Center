@@ -34,4 +34,4 @@ Si tienes alguna idea para mejorar la plataforma o encuentras un bug, no dudes e
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE.md` para más detalles.
+Este proyecto aún no cuenta con una licencia vigente.
