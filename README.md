@@ -19,7 +19,7 @@ Tokki Center es una plataforma web diseñada para los fans de NewJeans. Ofrece u
 
 ## Cómo Empezar
 
-1. Clona este repositorio
+1. ¡Clona este repositorio!
 git clone https://github.com/tu-usuario/tokki-center.git
 
 2. Instala las dependencias
