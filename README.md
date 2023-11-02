@@ -9,7 +9,7 @@ Tokki Center es una plataforma web diseñada para los fans de NewJeans. Ofrece u
 - **Perfil de Artista**: Información detallada sobre cada miembro de NewJeans.
 - **Foro de Comunidad**: Un espacio para discutir y compartir todo lo relacionado con NewJeans.
 - **Calendario de Eventos**: Mantente al día con los próximos eventos y lanzamientos.
-- **Tienda en Línea**: Compra mercancía oficial y contenido exclusivo desde las páginas oficiales.
+- **Tienda en Línea**: Compra mercancía oficial y contenido exclusivo desde las páginas oficiales. Esta sección determinará los productos sold out y disponibles.
 - **Diario Personal**: Un espacio para que los fans registren sus pensamientos y actividades, todo mientras se sienten más cerca de NewJeans.
 
 ## Tecnologías Utilizadas
